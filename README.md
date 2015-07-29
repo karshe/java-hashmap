@@ -11,5 +11,5 @@ This allows the execution time of basic operations, such as get() and put(), to 
 This project includes sample *NetBeans project* which illustrates the Java HashMap class. 
 
 #### About Developer 
-by [**Utkarsh Kumar Raut**](https://www.facebook.com/me.utkarshkr)
-as Sample illustration which was part of his *Java Programming Subject for B.E. (CSE)*.
+Sample NetBeans project by [**Utkarsh Kumar Raut**](https://www.facebook.com/me.utkarshkr)
+as an illustration which was part of his *Java Programming Subject for B.E. (CSE)*.
