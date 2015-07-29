@@ -1,4 +1,4 @@
-## Illustration for Java HashMap 
+## *Illustration for Java HashMap*
 
 #### Java HashMap
 The HashMap class uses a hash table to implement the Map interface. 
